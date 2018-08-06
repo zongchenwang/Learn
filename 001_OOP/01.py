@@ -30,4 +30,4 @@ print(yueyue.name)
 print(yueyue.age)
 # 需要注意的是成员函数调用没有递进参数
 yueyue.do_HW()
-123
+12
